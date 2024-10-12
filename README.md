@@ -1,13 +1,19 @@
 README for Python Exercises Marcos Dumortier
+
 Overview
 
 Branches
 
-Branch 1: Contains Python_Ex1.ipynb 
-Branch 2: Contains Python_Ex2.ipynb 
+Branch 1: Contains Python_Ex1.ipynb with basic Python exercises.
+Branch 2: Contains Python_Ex2.ipynb with more advanced exercises.
 
 This repository contains two Jupyter Notebook files, Python_Ex1.ipynb and Python_Ex2.ipynb, which include exercises for practicing Python programming concepts.
 All questions are present in the Notebook files.
+
+Usage
+Open the notebooks in Jupyter and run the cells to see the results. 
+
+Kernel: Python 3 (ipykernel)
 
 Python_Ex1.ipynb Topics:
 1. Greeting Message: Printing a simple message.
@@ -28,7 +34,7 @@ Python_Ex1.ipynb Topics:
 16. Grade Average: Calculating average grades from a dictionary.
 17. Custom Calculator Function: Implementing a function to perform mathematical operations based on user input.
 
-18. Python_Ex2.ipynb Topics
+Python_Ex2.ipynb Topics
 1. FizzBuzz Function: Implementing the FizzBuzz logic to print different outputs based on the number's divisibility.
 2. Basic Data Filtering:
     * Creating a mixed list of data types.
