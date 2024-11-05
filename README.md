@@ -5,8 +5,11 @@ README for Python Exercises Marcos Dumortier
 **Branches**
 
 Branch 1: Contains Python_Ex1.ipynb with basic Python exercises.
+
 Branch 2: Contains Python_Ex2.ipynb with more advanced exercises.
-Branch 3: Contains Python_Ex3.ipynb, covering Object-Oriented Programming (OOP) 
+
+Branch 3: Contains Python_Ex3.ipynb, covering Object-Oriented Programming (OOP).
+
 Branch 4: Contains Python_Ex4.ipynb, focusing on File Handling and Data Processing in Python.
 
 This repository contains Marcos' exercises for practicing Python programming concepts.
