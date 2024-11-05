@@ -1,8 +1,8 @@
 README for Python Exercises Marcos Dumortier
 
-Overview
+*Overview*
 
-Branches
+**Branches**
 
 Branch 1: Contains Python_Ex1.ipynb with basic Python exercises.
 Branch 2: Contains Python_Ex2.ipynb with more advanced exercises.
@@ -12,7 +12,7 @@ Branch 4: Contains Python_Ex4.ipynb, focusing on File Handling and Data Processi
 This repository contains Marcos' exercises for practicing Python programming concepts.
 All questions are present in the files.
 
-Usage
+**Usage**
 For Python_Ex1 & 2: Open the notebooks in Jupyter and run the cells to see the results. 
 
 For Python_Ex3 & 4:
@@ -21,7 +21,7 @@ Open .ipynb files directly in VS Code by selecting "Open with..." > "Jupyter Not
 You can run each cell interactively and view outputs in the notebook interface.
 Kernel used to do the exercises: Python environmnent: Python 3.12.2
 
-Python_Ex1.ipynb Topics:
+**Python_Ex1.ipynb Topics:**
 
 1. Greeting Message: Printing a simple message.
 2. Arithmetic Operations: Basic math with variables.
@@ -41,7 +41,7 @@ Python_Ex1.ipynb Topics:
 16. Grade Average: Calculating average grades from a dictionary.
 17. Custom Calculator Function: Implementing a function to perform mathematical operations based on user input.
 
-Python_Ex2.ipynb Topics
+**Python_Ex2.ipynb Topics**
 
 1. FizzBuzz Function: Implementing the FizzBuzz logic to print different outputs based on the number's divisibility.
 2. Basic Data Filtering:
@@ -54,7 +54,7 @@ Python_Ex2.ipynb Topics
     * Defining a function to convert Celsius to Fahrenheit.
     * Printing results for various temperatures.
 
-Python_Ex3.ipynb Topics
+**Python_Ex3.ipynb Topics**
 
 This notebook focuses on Object-Oriented Programming (OOP).
 
@@ -71,7 +71,7 @@ Manages the entire registration system, linking students to courses. Key methods
 Exercise 4: Adding Grades and GPA Calculation
 Extends functionality by tracking grades and calculating GPAs, with new methods for assigning grades and calculating a student’s GPA.
 
-Python_Ex4.ipynb Topics
+**Python_Ex4.ipynb Topics**
 
 This notebook focuses on File Handling and Data Processing using Python, with exercises centered around working with annotation files in a specified format.
 
