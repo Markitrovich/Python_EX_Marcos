@@ -13,8 +13,8 @@ All questions are present in the files.
 
 Usage
 For Python_Ex1 & 2: Open the notebooks in Jupyter and run the cells to see the results. 
-For Python_Ex3:
 
+For Python_Ex3:
 Ensure you have the Jupyter and Python extensions installed in Visual Studio Code.
 Open .ipynb files directly in VS Code by selecting "Open with..." > "Jupyter Notebook".
 You can run each cell interactively and view outputs in the notebook interface.
