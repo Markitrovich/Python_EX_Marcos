@@ -6,16 +6,21 @@ Branches
 
 Branch 1: Contains Python_Ex1.ipynb with basic Python exercises.
 Branch 2: Contains Python_Ex2.ipynb with more advanced exercises.
+Branch 3: Contains Python_Ex3.ipynb, covering Object-Oriented Programming (OOP) 
 
-This repository contains two Jupyter Notebook files, Python_Ex1.ipynb and Python_Ex2.ipynb, which include exercises for practicing Python programming concepts.
-All questions are present in the Notebook files.
+This repository contains Marcos' Python_Ex1.ipynb, Python_Ex2.ipynb and Python_Ex3.ipynb which include exercises for practicing Python programming concepts.
+All questions are present in the files.
 
 Usage
-Open the notebooks in Jupyter and run the cells to see the results. 
+For Python_Ex1 & 2: Open the notebooks in Jupyter and run the cells to see the results. 
+For Python_Ex3:
 
-Kernel: Python 3 (ipykernel)
+Ensure you have the Jupyter and Python extensions installed in Visual Studio Code.
+Open .ipynb files directly in VS Code by selecting "Open with..." > "Jupyter Notebook".
+You can run each cell interactively and view outputs in the notebook interface.
 
 Python_Ex1.ipynb Topics:
+
 1. Greeting Message: Printing a simple message.
 2. Arithmetic Operations: Basic math with variables.
 3. Personalized Greeting: Using a variable for dynamic output.
@@ -35,6 +40,7 @@ Python_Ex1.ipynb Topics:
 17. Custom Calculator Function: Implementing a function to perform mathematical operations based on user input.
 
 Python_Ex2.ipynb Topics
+
 1. FizzBuzz Function: Implementing the FizzBuzz logic to print different outputs based on the number's divisibility.
 2. Basic Data Filtering:
     * Creating a mixed list of data types.
@@ -45,3 +51,24 @@ Python_Ex2.ipynb Topics
 4. Temperature Conversion:
     * Defining a function to convert Celsius to Fahrenheit.
     * Printing results for various temperatures.
+
+Python_Ex3.ipynb Topics
+
+This notebook focuses on Object-Oriented Programming (OOP).
+
+First part: theory & examples 
+
+Second part: Hands On exercises
+
+Exercise 1: Course Class
+Manages course details and enrolled students with methods to add, remove, and display students.
+Exercise 2: Student Class
+Manages student information and enrolled courses with methods to enroll, drop, and display courses.
+Exercise 3: Registrar Class
+Manages the entire registration system, linking students to courses. Key methods include adding students/courses, enrolling students in courses, dropping courses, and displaying all students and courses.
+Exercise 4: Adding Grades and GPA Calculation
+Extends functionality by tracking grades and calculating GPAs, with new methods for assigning grades and calculating a student’s GPA.
+
+
+
+
