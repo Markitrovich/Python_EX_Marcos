@@ -4,9 +4,9 @@ Overview
 
 Branches
 
-Branch 2: Contains Python_Ex2.ipynb with more advanced exercises.
+Branch 1: Contains Python_Ex1.ipynb with basic Python exercises.
 
-This repository contains two Jupyter Notebook file Python_Ex2.ipynb, which include exercises for practicing Python programming concepts.
+This repository contains two Jupyter Notebook file Python_Ex1.ipynb, which include exercises for practicing Python programming concepts.
 All questions are present in the Notebook files.
 
 Usage
