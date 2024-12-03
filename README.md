@@ -24,6 +24,7 @@ This repository contains Marcos' exercises for practicing Python programming con
 All questions are present in the files.
 
 **Usage**
+
 For Python_Ex1 & 2: Open the notebooks in Jupyter and run the cells to see the results. 
 
 For Python_Ex3 & 4:
