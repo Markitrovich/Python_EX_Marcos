@@ -2,6 +2,9 @@ README for Python Exercises Marcos Dumortier :smiley:
 
 *Overview*
 
+This repository contains Marcos' exercises for practicing Python programming concepts.
+All questions are present in the files.
+
 **Branches**
 
 Branch 1: Contains Python_Ex1.ipynb with basic Python exercises.
@@ -20,8 +23,6 @@ Branch 7: Seaborn exercises, including lineplots, histograms, ECDF plots, and ad
 
 Branch 8: Combined Matplotlib and Seaborn exercises, emphasizing customization and real-world visualization tasks.
 
-This repository contains Marcos' exercises for practicing Python programming concepts.
-All questions are present in the files.
 
 **Usage**
 
