@@ -1,4 +1,5 @@
 README for Python Exercises Marcos Dumortier
+
 **Python for Data Science - Session 6**
 
 *Overview*
